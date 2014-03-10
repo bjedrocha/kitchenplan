@@ -15,8 +15,3 @@ attributes:
             - wget
         cask_apps:
             - sequel-pro
-    rvm:
-        user_installs:
-            user: bjedrocha
-            rubies:
-                - 2.0.0
