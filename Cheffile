@@ -9,7 +9,7 @@ cookbook "drivers",               :github => "kitchenplan/chef-drivers",        
 cookbook "sudoalt",               :github => "kitchenplan/chef-sudoalt",        :ref => "v2.4"
 cookbook "dmg",                   :github => "opscode-cookbooks/dmg",           :ref => "v2.1.4"
 cookbook "composer",              :github => "kitchenplan/chef-composer",       :ref => "v1.0"
-cookbook "rvm",                   :github => "fnichol/chef-rvm",                :ref => "master"
+cookbook "rvm",                   :github => "fnichol/chef-rvm",                :ref => "26ad5c043c70ea98855a049fbbacb7ffc5ad73e3"
 
 # If you want to use either rvm or rbenv, uncomment the relevant line:
 #
