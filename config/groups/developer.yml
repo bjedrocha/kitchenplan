@@ -2,7 +2,7 @@ recipes:
     global:
         - applications::mysql
     mac_os_x:
-        - applications::rvm::user
+        - rvm::user
         - applications::sublime_text_3
         - osxdefaults::set_terminal_profile
         - osxdefaults::set_a_blazingly_fast_keyboard_repeat_rate
